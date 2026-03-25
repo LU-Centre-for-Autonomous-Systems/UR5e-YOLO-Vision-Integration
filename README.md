@@ -182,21 +182,13 @@ Common issues:
 
 ---
 
-## 📈 Future Improvements
-
-- Add depth-based positioning (3D localization)
-- Integrate MoveIt for motion planning
-- Replace MATLAB with a full ROS 2 control node (Python/C++)
-- Add multi-object tracking
-
----
 
 ## 👨‍💻 Author
 
-- MSc Robotics Project – Loughborough University  
+- Yalei Yu  – Loughborough University  
 
 ---
 
 ## 📜 License
 
-Specify your license here (e.g., MIT, Apache 2.0)
+This project is licensed under the MIT License 
