@@ -185,7 +185,7 @@ Common issues:
 
 ## 👨‍💻 Author
 
-- Yalei Yu  – Loughborough University  
+- Yalei Yu (y.yu2@lboro.ac.uk)  – Loughborough University  
 
 ---
 
