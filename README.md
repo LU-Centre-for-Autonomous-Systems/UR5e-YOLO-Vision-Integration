@@ -78,7 +78,7 @@ ros2 launch realsense2_camera rs_pointcloud_launch.py rgb_camera.color_profile:=
 ### 2️⃣ Launch UR5e Driver
 
 ```bash
-ros2 launch ur_robot_driver ur_control.launch.py ur_type:=ur5e robot_ip:=158.125.191.88
+ros2 launch ur_robot_driver ur_control.launch.py ur_type:=ur5e robot_ip:=158.125.190.88
 ```
 
 - **Network:**
