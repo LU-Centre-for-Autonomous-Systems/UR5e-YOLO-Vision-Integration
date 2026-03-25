@@ -82,7 +82,7 @@ ros2 launch ur_robot_driver ur_control.launch.py ur_type:=ur5e robot_ip:=158.125
 ```
 
 - **Network:**
-  - University network: `158.125.191.88`
+  - University network: `158.125.190.88`
   - Internal robot IP: `10.0.0.100`
 
 - **Description:** Enables ROS 2 communication with the UR5e robot
