@@ -16,17 +16,17 @@ The system detects objects and dynamically adjusts robot behavior based on detec
 
 ---
 
-## 📌 Features
+## Features
 
-- 📷 Real-time RGB image streaming (RealSense)
-- 🧠 YOLO-based object detection
-- 📊 Confidence-driven control logic
-- 🤖 ROS 2 → URScript robot control pipeline
-- 🔗 Modular ROS 2 node architecture
+- Real-time RGB image streaming (RealSense)
+- YOLO-based object detection
+- Confidence-driven control logic
+- ROS 2 → URScript robot control pipeline
+- Modular ROS 2 node architecture
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 
 ```mermaid
 graph LR
@@ -46,9 +46,9 @@ graph LR
 
 
 
-## 🚀 Getting Started
+## Getting Started
 
-### 🔧 Prerequisites
+### rerequisites
 
 - ROS 2 (Humble or compatible)
 - Intel RealSense SDK
@@ -154,7 +154,7 @@ The experimental setting is given in the following figure:
 
 ---
 
-## 🧪 Debugging & Verification
+## Debugging & Verification
 
 Check active topics:
 ```bash
@@ -189,12 +189,12 @@ Common issues:
 --- -->
 
 
-## 👨‍💻 Author
+## Author
 
 - Yalei Yu (y.yu2@lboro.ac.uk)  – Loughborough University  
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the MIT License 
