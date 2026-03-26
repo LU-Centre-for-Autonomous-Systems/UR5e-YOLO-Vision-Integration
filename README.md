@@ -174,7 +174,7 @@ Common issues:
 
 ---
 
-## 📁 Project Structure (Suggested)
+<!-- ## 📁 Project Structure (Suggested)
 
 ```
 .
@@ -186,7 +186,7 @@ Common issues:
 ├── README.md
 ```
 
----
+--- -->
 
 
 ## 👨‍💻 Author
